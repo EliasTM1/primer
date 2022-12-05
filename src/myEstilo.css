@@ -1,0 +1,16 @@
+h3{
+    font-size: 50px;
+}
+
+button {
+    margin: 1rem;
+    padding: .5rem;
+    min-width: 300px;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    background-color: aqua;
+}
+
+button + button {
+    background-color: red;
+}

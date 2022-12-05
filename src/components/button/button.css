@@ -1,0 +1,15 @@
+.calc-button{
+    width: 80px;
+    height: 80px;
+    background-color: #503cd1;
+    border: 1px solid black;
+    color: #ffffff;
+}
+
+.equal {
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+    border: 1px solid black;
+    color: #ffffff;
+}
