@@ -7,3 +7,8 @@ body{
   align-items: center;
   height: 100vh;
 }
+
+.equals {
+  grid-column: 3 / 5;
+  background-color: rgb(243, 61, 29);
+}

@@ -4,12 +4,17 @@
     background-color: #503cd1;
     border: 1px solid black;
     color: #ffffff;
+    cursor: pointer;
+    font-size: 2rem;
+    text-align: center;
+    
 }
 
-.equal {
-    width: 80px;
-    height: 80px;
-    background-color: orange;
-    border: 1px solid black;
-    color: #ffffff;
+.calc-button:hover{
+    filter: opacity(10%);
+}
+
+.equals {
+    grid-column: 3 / 5;
+    background-color: rgb(243, 61, 29);
 }
