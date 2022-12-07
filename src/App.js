@@ -5,7 +5,6 @@ import Screen from "./components/screen/Screen";
 import ButtonWrapper from "./components/buttonWrapper/ButtonWrapper";
 import Button from "./components/button/Button";
 import { v4 } from "uuid";
-import { type } from "@testing-library/user-event/dist/type";
 
 const calcAsciiValues = [
 	12, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 96, 97, 98, 99, 100, 101, 102,
